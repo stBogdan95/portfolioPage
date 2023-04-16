@@ -13,18 +13,14 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"fonts/Rubik-Bold.ttf": "3e84b9e91636be0299ae44f99135b6d2",
-"fonts/Rubik-Italic.ttf": "4ac4d8c3ca41d91fe0224e04e6657995",
-"fonts/Rubik-Medium.ttf": "149ba9762e7abdc233e6917fafb8a651",
-"fonts/Rubik-Regular.ttf": "7dad6ed352aa899d584ce33989a5ddab",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ebff343743faa97efafcf50f251ab256",
-"/": "ebff343743faa97efafcf50f251ab256",
-"main.dart.js": "44f0e5872d77f292685d2c2caa6e18d6",
-"manifest.json": "f2e81f546bbcce263e9899c2ab101c27",
+"index.html": "efdead3b9017365d7192499e0bb6fed5",
+"/": "efdead3b9017365d7192499e0bb6fed5",
+"main.dart.js": "01b73a7091f664ae21ab3e3f055d0f81",
+"manifest.json": "c7e541d8a02a7eeed431df067b448d2e",
 "version.json": "9b818ca9511483c901bed1545384376c"
 };
 
