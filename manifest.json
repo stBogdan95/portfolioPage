@@ -1,6 +1,6 @@
 {
-    "name": "FShop",
-    "short_name": "FShop",
+    "name": "RadioSklep",
+    "short_name": "RadioSklep",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#5BB112",
