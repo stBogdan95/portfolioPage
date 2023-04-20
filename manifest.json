@@ -1,11 +1,11 @@
 {
-    "name": "Bohdan Svystun Portfolio",
-    "short_name": "My Portfolio",
+    "name": "FShop",
+    "short_name": "FShop",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#FFFFFF",
-    "theme_color": "#EC5B53",
-    "description": "My portfolio website",
+    "background_color": "#5BB112",
+    "theme_color": "#5BB112",
+    "description": "Flutter web shop",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

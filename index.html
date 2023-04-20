@@ -1,33 +1,33 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <base href="/portfolioPage/">
+  <base href="/">
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="My portfolio website">
-  <!-- iOS meta tags & icons -->
+  <meta name="description" content="Flutter web shop">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="my_portfolio">
+  <meta name="apple-mobile-web-app-title" content="web_shop">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
-  <!-- Favicon -->
-  <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
-  <title>Bohdan Svystun Portfolio</title>
+  <link rel='shortcut icon' type='image/x-icon' href='icons/favicon.ico' />
+  <title>FShop</title>
   <link rel="manifest" href="manifest.json">
   <script>
-    var serviceWorkerVersion = '58355171';
+    var serviceWorkerVersion = '2790193236';
   </script>
   <script src="flutter.js" defer></script>
 </head>
+
 <body>
   <script>
-    window.addEventListener('load', function(ev) {
+    window.addEventListener('load', function (ev) {
       _flutter.loader.loadEntrypoint({
         serviceWorker: {
           serviceWorkerVersion: serviceWorkerVersion,
         },
-        onEntrypointLoaded: function(engineInitializer) {
-          engineInitializer.initializeEngine().then(function(appRunner) {
+        onEntrypointLoaded: function (engineInitializer) {
+          engineInitializer.initializeEngine().then(function (appRunner) {
             appRunner.runApp();
           });
         }
@@ -35,4 +35,5 @@
     });
   </script>
 </body>
+
 </html>
